@@ -3,16 +3,16 @@
 <channel>
   <title>Siemens RSS Proof of Concept - SI NMHM Mass notification System</title>
     <item>
+		<guid>AS-v1</guid>
         <media:content url="https://raw.githubusercontent.com/AV-Zac/BS-MRSS-Concept/refs/heads/main/Active-Shooter.png"  type="image/jpeg" duration="2" />
-		<pubDate>09/26/2025 03:13:45</pubDate>
 	</item>
     <item>
+		<guid>fire-v1</guid>
         <media:content url="https://raw.githubusercontent.com/AV-Zac/BS-MRSS-Concept/refs/heads/main/fire.png" type="image/jpeg" duration="2"/>
-		<pubDate>09/26/2025 03:13:45</pubDate>
     </item>
      <!-- <item>
+		<guid>weather-v1</guid>
         <media:content url="https://raw.githubusercontent.com/AV-Zac/BS-MRSS-Concept/refs/heads/main/shelter-in-place-weather.png" type="image/jpeg" duration="2"/>
-		<pubDate>09/26/2025 03:13:45</pubDate>
     </item>-->
 </channel>
 </rss>
